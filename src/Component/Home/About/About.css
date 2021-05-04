@@ -1,0 +1,18 @@
+
+.abImg img{
+    height: 500px;
+    border: 20px solid lightblue;
+    border-radius: 5px;
+    margin-top: 50%;
+   
+    
+   
+}
+.abContant{
+    padding: 10px;
+    margin-left: 10%;
+}
+
+.about{
+    margin-bottom: 20%;
+}

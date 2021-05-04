@@ -1,0 +1,12 @@
+.headerImg Img{
+    height:500px;
+    border:1px solid gray;
+    border-radius:10px;
+}
+.bg-color{
+    background-color:#f2f8f2;
+    
+}
+.spacing{
+    margin-left: 100px;
+}
