@@ -2,3 +2,13 @@
     height:80px;
     margin-left: 50%;
 }
+
+.navbar-color{
+    background-color:lightblue;
+   
+}
+
+.navbar-color a{
+    color: black;
+    font-size:18px;
+}

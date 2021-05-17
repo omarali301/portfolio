@@ -1,24 +1,28 @@
 import React from 'react';
 import headerImg from '../../../images/webdeveloper.png';
 import './HeaderSection.css';
+import Zoom from 'react-reveal/Zoom';
 
 const HeaderSection = () => {
     return (
-        <div id="home" className="container">
+        <div id="home" className="container header-color">
             <div className="row pt-5">
                 <div className="col-md-5 spacing">
                     <h1> Hi! I am <span className="">Md Omar Ali</span></h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut totam eaque molestiae nihil cum 
-                        cumque fuga dicta ducimus, maxime et laborum dolorum delectus nobis a neque odio at commodi?
-                         Quibusdam repudiandae porro inventore voluptatum, molestias ex, quidem nam eligendi rem, nobis 
-                         tempore optio voluptatem. Soluta minima consequatur excepturi exercitationem asperiores.</p>
-                         <button className="btn btn-primary">Hire Me</button>
+                    <p>To develop career in any recognized organization through my aptitude, hard work, enthusiasm, sincerity, diligence,
+                         dedication and determination where creativity and sincerity are appreciated and flourish opportunities are available 
+                         to be professional. I have completed my M.A in Govt Azizul haque collage. My keen interest in web-development has enabled
+                          me to develop a good knowledge of Html, Css, Bootstraps, JavaScript, React js, Node js , Mongo DB.</p>
+                         <button className="btn btn-primary"><a href="#contact"><span className="button-color">Hire Me</span></a></button>
                 </div>
                 <div className="col-md-6 headerImg">
-                    <img src={headerImg} alt=""/>
+                <Zoom> <img src={headerImg} alt=""/></Zoom>
                 </div>
             </div>
+            <hr></hr>
         </div>
+        
+
     );
 };
 

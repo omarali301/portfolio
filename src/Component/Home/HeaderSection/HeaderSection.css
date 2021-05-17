@@ -1,12 +1,18 @@
 .headerImg Img{
     height:500px;
     border:1px solid gray;
+    background-color:white;
     border-radius:10px;
 }
-.bg-color{
-    background-color:#f2f8f2;
+.header-color{
+    background-color:#000000;
+    color : white;
     
 }
 .spacing{
     margin-left: 100px;
+}
+
+.button-color{
+    color : white;
 }

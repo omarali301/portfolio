@@ -19,7 +19,7 @@ const Service = () => {
       <p class="card-text">This is panda website which I try to do E-commerce website create and it;s just sample of work for me</p>
     </div>
     <div class="card-footer">
-      <button className="btn btn-primary">Read More</button>
+     <button className="btn btn-primary"><a href="https://omarali301.github.io/fourth-project/" target="_blank"><span className="button-color">Panda website</span></a></button>
     </div>
   </div>
 </div>
@@ -31,7 +31,7 @@ const Service = () => {
       <p class="card-text">This is tickets buy website which I try to do buy ticket and it;s just sample of work for me</p>
     </div>
     <div class="card-footer">
-      <button className="btn btn-primary">Read More</button>
+    <button className="btn btn-primary"><a href="https://omarali301.github.io/Discover-Fly/" target="_blank"><span className="button-color">Booking flight</span></a></button>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ const Service = () => {
       <p class="card-text">International cricket Team website which I have use sports api and here a button which click you can see full details</p>
     </div>
     <div class="card-footer">
-      <button className="btn btn-primary">Read More</button>
+       <button className="btn btn-primary"><a href="https://omarali301.github.io/third-website/" target="_blank"><span className="button-color">Feature App</span></a></button>
     </div>
   </div>
 </div>
@@ -55,7 +55,7 @@ const Service = () => {
       <p class="card-text">This is a clipping service provider which give the service various price </p>
     </div>
     <div class="card-footer">
-      <button className="btn btn-primary">Read More</button>
+       <button className="btn btn-primary"><a href="https://omarali301.github.io/Sajid-Bank/" target="_blank"><span className="button-color">Deposit Bank</span></a></button>
     </div>
   </div>
 </div>
@@ -67,7 +67,7 @@ const Service = () => {
       <p class="card-text">Emazon This is a ecommerce website which I try to full backend and frontend here ar buy button you can choose more product and pay by card</p>
     </div>
     <div class="card-footer">
-      <button className="btn btn-primary">Read More</button>
+       <button className="btn btn-primary"><a href="https://competent-colden-23d505.netlify.app/" target="_blank"><span className="button-color">Cricket Team</span></a></button>
     </div>
   </div>
 </div>
@@ -79,7 +79,7 @@ const Service = () => {
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
     </div>
     <div class="card-footer">
-      <button className="btn btn-primary">Read More</button>
+       <button className="btn btn-primary"><a href="https://photoservices-3bf46.web.app/" target="_blank"><span className="button-color">photoEditing website</span></a></button>
     </div>
   </div>
 </div>
