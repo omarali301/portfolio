@@ -15,11 +15,11 @@ const Service = () => {
   <div class="card h-100">
     <img src={cart1} class="card-img-top p-3" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">panda website</h5>
-      <p class="card-text">This is panda website which I try to do E-commerce website create and it;s just sample of work for me</p>
+      <h5 class="card-title">Regmeet website</h5>
+      <p class="card-text">This is clone website here user can post or see all feed and notification and massage</p>
     </div>
     <div class="card-footer">
-     <button className="btn btn-primary"><a href="https://omarali301.github.io/fourth-project/" target="_blank"><span className="button-color">Panda website</span></a></button>
+     <button className="btn btn-primary"><a href="https://quirky-snyder-195853.netlify.app/" target="_blank"><span className="button-color">Regmeet website</span></a></button>
     </div>
   </div>
 </div>
